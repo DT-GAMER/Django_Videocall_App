@@ -110,8 +110,9 @@ This project is built with :
 
 #### Django Video Caller App was created by Abakpa Dominic
 
-## Contact Me                                                   ### Abakpa Dominic
-                                                                [Github](https://github.com/DT-GAMER) <br>
+## Contact Me                                                 
+### Abakpa Dominic
+[Github](https://github.com/DT-GAMER) <br>
 [Instagram](https://www.instagram.com/dt_gamer01/) <br>         [Gmail](mailto:abakpad82@gmail.com) <br>
 [Twitter](https://twitter.com/dominic_abakpa) <br>
 
